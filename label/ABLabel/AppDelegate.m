@@ -11,6 +11,8 @@
 
 @interface AppDelegate ()
 
+@property (nonatomic, strong)ABLabel *testLabel;//wzy_add
+
 @property (weak) IBOutlet NSWindow *window;
 @end
 
