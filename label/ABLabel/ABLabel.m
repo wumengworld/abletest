@@ -37,7 +37,10 @@
     self = [super init];if(!self)return nil;
     [self setUp];
     return self;
+
 }
+
+//------------------------------------ccccccccccc
 -(instancetype)initWithCoder:(NSCoder *)coder
 {
     self = [super initWithCoder:coder];if(!self)return nil;
