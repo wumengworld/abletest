@@ -31,7 +31,7 @@
 
 //---------------test test --------------
 //---------------test test --------------
-
+//-----add add add add----
 -(instancetype)init
 {
     self = [super init];if(!self)return nil;
@@ -42,7 +42,9 @@
 
 //------------------------------------ccccccccccc
 //------------------------------------cccccccccccbbbbbbbb
-//this is a test
+
+//-----this is a test
+//wumeng test
 -(instancetype)initWithCoder:(NSCoder *)coder
 {
     self = [super initWithCoder:coder];if(!self)return nil;
