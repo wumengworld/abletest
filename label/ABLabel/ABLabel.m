@@ -27,12 +27,21 @@
     _textLayer.wrapped = YES;
     [self.layer addSublayer:_textLayer];
 }
+
+
+//---------------test test --------------
+//---------------test test --------------
+
 -(instancetype)init
 {
     self = [super init];if(!self)return nil;
     [self setUp];
     return self;
+
 }
+
+//------------------------------------ccccccccccc
+//------------------------------------cccccccccccbbbbbbbb
 -(instancetype)initWithCoder:(NSCoder *)coder
 {
     self = [super initWithCoder:coder];if(!self)return nil;
