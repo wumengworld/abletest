@@ -27,6 +27,9 @@
     _textLayer.wrapped = YES;
     [self.layer addSublayer:_textLayer];
 }
+
+
+//---------------test test --------------
 -(instancetype)init
 {
     self = [super init];if(!self)return nil;
