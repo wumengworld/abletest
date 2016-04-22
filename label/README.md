@@ -1,0 +1,2 @@
+ABLabel一个主要用CATextLayer编写的简单label
+适用于Mac OS和iOS
